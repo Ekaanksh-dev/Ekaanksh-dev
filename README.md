@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/github/followers/Ekaanksh-dev?style=flat-square&color=a371f7&label=Followers" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 📌 About Me
 
@@ -17,9 +14,6 @@
 - 🤖 Integrating **AI into real infrastructure workflows**
 - 🌍 Stepping into **Open Source contributions**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 🚀 Featured Projects
 
@@ -69,9 +63,6 @@
 
 `Next.js` · `Spring Boot` · `Gemini` · `Pinecone` · `Appwrite`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -79,9 +70,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,githubactions,git,nginx,vscode" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 🧠 My Focus Areas
 
@@ -91,9 +79,6 @@
 | 🤖 AI Workflow Integration | AI-driven ops, intelligent alerting & recovery |
 | 🐧 Linux Systems Admin | Daemons, systemd, process management |
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 📊 GitHub Stats
 
@@ -105,19 +90,11 @@
   <img src="https://streak-stats.demolab.com/?user=Ekaanksh-dev&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ekaanksh-dev&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ekaanksh-dev&theme=nightowl&radius=10" alt="Activity Graph" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 🈷️ Languages
 
@@ -125,9 +102,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ekaanksh-dev&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 ## 🔗 Connect with Me
 
@@ -143,20 +117,20 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
 
 <p align="center">
-  <i>"Automate everything. Trust the system. Fix what breaks itself."</i> 🤖
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzB5bmhycjNxdmU3NTk2Y2hpdDF1emkyYnhueWQ1NnBta3R4bGh1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zqihZZ5Qny4q4/giphy.gif" width="280" />
+</p>
+
+<h3 align="center">🏴‍☠️ As long as I am alive, I have infinite chances.</h3>
+
+<p align="center">
+  <i>— Monkey D. Luffy</i>
 </p>
 
 <p align="center">
