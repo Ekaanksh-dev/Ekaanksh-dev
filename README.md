@@ -106,7 +106,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ekanksh-patil-087660353">
+  <a href="https://www.linkedin.com/in/ekaanksh-patil-087660353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD5CbCTzTRwmmOHWLkmTHrQ%3D%3D">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:pekanksh@gmail.com">
