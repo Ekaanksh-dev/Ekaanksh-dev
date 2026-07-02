@@ -112,7 +112,7 @@
   <a href="mailto:pekanksh@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://portfolio-kappa-rosy-7op0br99iq.vercel.app/">
+  <a href="https://portfolio-kappa-rosy-7op0br99iq.">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Portfolio" width="40" />
   </a>
 </p>
